@@ -29,6 +29,21 @@ The approximately 83% reduction is calculated from the reported change from 30 m
 
 ---
 
+## 👤 Role & Contribution
+
+I worked as a **Billing Specialist**, responsible for the issuance and processing of service invoices.
+
+While performing this role, I identified repetitive and manual steps in the billing workflow and independently designed and implemented an Excel/VBA solution to standardize and automate part of the process.
+
+My contribution included:
+
+- Process and business rule analysis
+- Excel workbook and formula development
+- ERP data consolidation
+- VBA automation and Outlook integration
+- Operational tracking and reporting
+- Testing and process improvement
+
 ## 🧠 Business Context
 
 The company operated with multiple branches across Brazil and provided different types of services.
